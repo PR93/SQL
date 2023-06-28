@@ -1,4 +1,4 @@
-ALTER FUNCTION [TSToDate](@ts integer,@itscdn bit)
+CREATE FUNCTION [TSToDate](@ts integer,@itscdn bit)
 RETURNS DATETIME
 as
 begin
