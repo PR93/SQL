@@ -1,0 +1,8 @@
+ALTER FUNCTION [TSToDate](@ts integer,@itscdn bit)
+RETURNS DATETIME
+as
+begin
+  IF (@itscdn=1)
+    RETURN DATEADD( ss, @ts,CONVERT(DATETIME,'19900101',11))
+  RETURN DATEADD( dd, @ts,CONVERT(DATETIME,'18001228',11))
+end
