@@ -7,7 +7,7 @@
 - DateToTS - Changes Datetime format to Timestamp
 - TSToDate - Changes Timestamp format to Datetime
 - DateToClarion - Changes DateTime format to Clarion
-- ClarionToDate - Changes Clarion format to DateTime
+- ClarionToDate - Changes Clarion format to DateTime 
  
 ## PROCEDURES
 - RepairComarchXLTraSelem - repairs connections ERP XL 
