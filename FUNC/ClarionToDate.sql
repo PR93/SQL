@@ -4,3 +4,4 @@ AS
 BEGIN
 	return dateadd(day, @dt, '18001228')
 END
+ 
