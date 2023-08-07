@@ -6,7 +6,7 @@
 - WorkingDays - Calculate the number of days from date to date without weekends
 - DateToTS - Changes Datetime format to Timestamp
 - TSToDate - Changes Timestamp format to Datetime
-- DateToClarion - Changes DateTime format to Clarion
+- DateToClarion - Changes DateTime format to Clarion 
 - ClarionToDate - Changes Clarion format to DateTime 
  
 ## PROCEDURES
