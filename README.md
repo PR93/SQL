@@ -9,5 +9,5 @@
 - DateToClarion - Changes DateTime format to Clarion 
 - ClarionToDate - Changes Clarion format to DateTime 
  
-## PROCEDURES
+## PROCEDURES 
 - RepairComarchXLTraSelem - repairs connections ERP XL 
